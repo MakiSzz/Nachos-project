@@ -1,0 +1,37 @@
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function get_tid_() has been called.
+thread name forked thread1 tid_ 1 status: RUNNING
+This function get_tid_() has been called.
+name forked thread2 tid_ 2 status: READY
+This function get_tid_() has been called.
+name forked thread3 tid_ 3 status: READY
+This function get_tid_() has been called.
+thread name forked thread2 tid_ 2 status: RUNNING
+This function get_tid_() has been called.
+name forked thread3 tid_ 3 status: READY
+This function get_tid_() has been called.
+name forked thread1 tid_ 1 status: READY
+This function get_tid_() has been called.
+thread name forked thread3 tid_ 3 status: RUNNING
+This function get_tid_() has been called.
+name forked thread1 tid_ 1 status: READY
+This function get_tid_() has been called.
+name forked thread2 tid_ 2 status: READY
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 100, idle 0, system 100, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

@@ -1,0 +1,102 @@
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function set_tid_() has been called.
+This function set_uid_() has been called.
+This function get_tid_() has been called.
+This function get_tid_() has been called.
+This function get_tid_() has been called.
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 0  name main uid_ 1000 tid_ 0 looped 0 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 1  name forked thread1 uid_ 1000 tid_ 1 looped 0 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 2  name forked thread2 uid_ 1000 tid_ 2 looped 0 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 3  name forked thread3 uid_ 1000 tid_ 3 looped 0 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 0  name main uid_ 1000 tid_ 0 looped 1 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 1  name forked thread1 uid_ 1000 tid_ 1 looped 1 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 2  name forked thread2 uid_ 1000 tid_ 2 looped 1 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 3  name forked thread3 uid_ 1000 tid_ 3 looped 1 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 0  name main uid_ 1000 tid_ 0 looped 2 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 1  name forked thread1 uid_ 1000 tid_ 1 looped 2 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 2  name forked thread2 uid_ 1000 tid_ 2 looped 2 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 3  name forked thread3 uid_ 1000 tid_ 3 looped 2 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 0  name main uid_ 1000 tid_ 0 looped 3 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 1  name forked thread1 uid_ 1000 tid_ 1 looped 3 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 2  name forked thread2 uid_ 1000 tid_ 2 looped 3 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 3  name forked thread3 uid_ 1000 tid_ 3 looped 3 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 0  name main uid_ 1000 tid_ 0 looped 4 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 1  name forked thread1 uid_ 1000 tid_ 1 looped 4 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 2  name forked thread2 uid_ 1000 tid_ 2 looped 4 times
+ Status RUNNING
+This function get_tid_() has been called.
+This function get_uid_() has been called.
+*** thread 3  name forked thread3 uid_ 1000 tid_ 3 looped 4 times
+ Status RUNNING
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 270, idle 0, system 270, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
